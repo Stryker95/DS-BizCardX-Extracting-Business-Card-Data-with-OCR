@@ -5,7 +5,7 @@ BizCardX-Extracting Business Card Data with OCR Bizcard Extraction is a Python a
 
 NAME : Sanchit Pal Singh
 
-BATCH: MDE086
+BATCH: MDE087
 
 DOMAIN : DATA SCIENCE
 
